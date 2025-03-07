@@ -4,7 +4,7 @@
 
 ##
 
-<img width=auto src="github-header-image.png"/>
+<img width=auto src="h1.png"/>
 
 ##
 
