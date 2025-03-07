@@ -59,14 +59,10 @@
 
 ###
 
-<div align="center">
-  [![](instagram.png)]("www.google.com")
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="38" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="38" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="38" alt="linkedin logo"  />
+<div>
+    <a href="https://www.instagram.com/photograph.by_vishal/">
+        <img src="instagram.png" width="40" height="40"/>
+    </a>
 </div>
 
 ###
