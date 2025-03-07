@@ -6,7 +6,7 @@
 
 ##
 
-<h2 align="center">Tech Stack:</h2>
+<h3 align="center">Tech Stack:</h3>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
@@ -38,13 +38,17 @@
 
 ##
 
-<h2 align="center">Projetcs:</h2>
+<h3 align="center">Projetcs:</h3>
 
-|     |    |    |
-|-----|----|----|
-| Billing Software | Blog Application | [TextUtils](https://thevishalrathod.github.io/TextUtils/) |
+##
 
-<h2 align="left">Stats:</h2>
+<div align="center">
+<a>Billing Software</a> | <a>BlogApp</a> | <a>TextUtils</a>
+</div>
+
+##
+
+<h3 align="center">Stats:</h3>
 
 ###
 
@@ -55,21 +59,25 @@
 
 ###
 
-<h2 align="left">Social Handles:</h2>
+<h3 align="center">Social Handles:</h3>
 
 ###
 
-<div>
+<div align="center" >
     <a href="https://www.instagram.com/photograph.by_vishal/">
         <img src="instagram.png" width="40" height="40"/>
+    </a>  
+    <img width="16"/>
+    <a href="https://www.linkedin.com/in/rathodstack/">
+        <img src="linkedin.png" width="40" height="40"/>
     </a>
+    <img width="16"/>
+    <a href="rathodvishal016@gmail.com">
+        <img src="gmail.png" width="40" height="40"/>
+    <img width="16"/>
 </div>
 
-###
-
-<h2 align="left">Contributions:</h2>
-
-###
+##
 
 <img src="https://raw.githubusercontent.com/thevishalrathod/thevishalrathod/output/snake.svg" alt="Snake animation" />
 
