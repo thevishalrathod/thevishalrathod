@@ -1,8 +1,10 @@
-<img align="center" wdith="200" src="animated_header.gif"/>
+<p align="center">
+<img width="200" src="animated_header.gif"/>
+</p>
 
 ##
 
-<img width="800" src="github-header-image.png"/>
+<img width=auto src="github-header-image.png"/>
 
 ##
 
