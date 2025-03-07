@@ -1,5 +1,10 @@
-<h1 align="center">Hello World!!, I am Vishal 👋</h1>
+<img align="center" wdith="200" src="animated_header.gif"/>
 
+##
+
+<img width="800" src="github-header-image.png"/>
+
+##
 
 <p align="left" style="font-size:30">🧗‍♂️ Currently working on a capstone project.<br>📖 Learning React/Redux.<br> 📸 Photographer,🎸Guitar player</p>   
 
